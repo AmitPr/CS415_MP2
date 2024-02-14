@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/GameFramework/IHealth.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/GameFramework/HealthComponent.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interface/WB_Health.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interactables/DangerCube_BP.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interface/WB_GameOver.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_Pikcup_BP_Child.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interactables/HealthPack_BP.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_Pickup_BP_Child.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interactables/Collectible_BP.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/Interface/WB_Score.uasset",
+				"/Users/amitp/Documents/uiuc/cs/cs415/MP2/Content/LearningKit_Games/Blueprints/GameFramework/Health.uasset"
+			]
+		}
+	]
+}
